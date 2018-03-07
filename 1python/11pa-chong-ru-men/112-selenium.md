@@ -7,8 +7,8 @@
 - 3.配置环境变量(把下载的chromedriver.exe路径配置到环境变量)
 
 
-```from selenium import webdriver
-
+```python
+from selenium import webdriver
 browser = webdriver.Chrome("C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe")
 browser.get('http://www.baidu.com/')
 
