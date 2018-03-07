@@ -1,1 +1,3 @@
 ## 1、使用程序来操作浏览器
+
+- pip3 install selenium
