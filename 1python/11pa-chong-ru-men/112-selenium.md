@@ -2,4 +2,4 @@
 
 - 1.pip3 install selenium
 
-- 2.下载webdriver(chrome的)
+- 2.[下载webdriver(chrome的)](http://selenium-python.readthedocs.io/index.html)
