@@ -1,5 +1,6 @@
 {
     "plugins": [ "theme-api" ,"katex"],
+    "title" : "python 2 machine learning",
     "pluginsConfig": {
         "theme-api": {
             "languages": [
