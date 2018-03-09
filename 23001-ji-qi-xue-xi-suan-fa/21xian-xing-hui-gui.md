@@ -28,7 +28,7 @@
   
   描述的是：(实际点-实际点的平均值)^2 
   
- SST = $$\sum_{i=1}^N(y-\hat y)^2$$    
+ SST = $$\sum_{i=1}^N(y-\overline y)^2$$    
  
 - #### 回归平方和(SSR，Sum of Squares forRegression)   
 
