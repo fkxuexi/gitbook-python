@@ -10,4 +10,8 @@
 
 ![](/assets/LinearRegression.png)
 
-### 
+### 一些术语：
+
+- 最小平方法(最小二乘法)
+
+    
