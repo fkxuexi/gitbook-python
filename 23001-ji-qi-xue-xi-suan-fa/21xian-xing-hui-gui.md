@@ -24,13 +24,17 @@
  
 ### 3、评价回归线拟合的好坏：
 
-- #### 总偏差（总平方和 SSR(Sum of Squaresfor Total)）：     
+- #### 总偏差（总平方和 SST(Sum of Squaresfor Total)）：     
   
   描述的是：(实际点-实际点的平均值)^2 
   
- SSR = $$\sum_{i=1}^N(y-Y)^2$$    
+ SST = $$\sum_{i=1}^N(y-\hat y)^2$$    
  
-- #### 回归平方和(SSR，Sum of Squares forRegression)      
+- #### 回归平方和(SSR，Sum of Squares forRegression)   
+
+   描述的是(预测的值(回归线的点的值) - 实际值的均值)^2
+   
+ SSR = $$\sum_{i=1}^N()$$        
  
                                              
                                                                                          
