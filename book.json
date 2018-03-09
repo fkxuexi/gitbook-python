@@ -5,8 +5,8 @@
     "description" : "把属于我们的大小再问大学老师要回来",
     "language" : "zh-hans",
     "links" : {
-    "sidebar" : {
-        "博客连接" : "http://top.fkxuexi.com"
+        "sidebar" : {
+            "博客连接" : "http://top.fkxuexi.com"
         }
     },
     "pluginsConfig": {
