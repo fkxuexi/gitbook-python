@@ -32,7 +32,7 @@
  
 - #### 回归平方和(SSR，Sum of Squares forRegression)   
 
-   描述的是(预测的值(回归线的点的值) - 实际值的均值)^2
+  描述的是(预测的值(回归线的点的值) - 实际值的均值)^2
    
  SSR = $$\sum_{i=1}^N(\hat y - \overline y )^2$$        
  
