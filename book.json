@@ -1,6 +1,7 @@
 {
     "plugins": [ "theme-api" ,"katex"],
     "title" : "python 2 machine learning",
+    "author" : "陈涛，top.fkxuexi"
     "pluginsConfig": {
         "theme-api": {
             "languages": [
