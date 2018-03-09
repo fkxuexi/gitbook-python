@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api" ,"katex"],
+    "plugins": [ "theme-api" ,"katex", "ace"],
     "title" : "python 2 machine learning",
     "author" : "陈涛，top.fkxuexi",
     "description" : "把属于我们的大小再问大学老师要回来",
